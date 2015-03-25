@@ -13,7 +13,7 @@ The "HCA_tidy" data frame is produced by performing the following transformation
 
 ### Clean Data Columns
 The resulting data frame has 66 columns:
-1.tBodyAcc_mean_X
+tBodyAcc_mean_X
 tBodyAcc_mean_Y
 tBodyAcc_mean_Z
 tBodyAcc_std_X
