@@ -7,6 +7,7 @@ The data provided in this original source is tidied into a dataset here, contain
 
 The "HCA_tidy" data frame is produced by performing the following transformations:
 
+
 1. Combine data from the original training and test datasets into one dataset.
 2. Extract only those features from the original dataset that are a mean or standard deviation measure (mean or std in feature name).
 3. Add activities, by name, to the single data frame.
@@ -14,7 +15,9 @@ The "HCA_tidy" data frame is produced by performing the following transformation
 ### Clean Data Columns
 The resulting data frame has 66 columns:
 tBodyAcc_mean_X
+
 tBodyAcc_mean_Y
+
 tBodyAcc_mean_Z
 tBodyAcc_std_X
 tBodyAcc_std_Y
